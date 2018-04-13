@@ -42,12 +42,12 @@ Skip layers use the output of a layer as input to another layer in the decoder b
 
 ## Hyperparameters
 I started with the following parameters:
-######learning_rate = 0.01
-######batch_size = 100
-######num_epochs = 30
-######steps_per_epoch = 200
-######validation_steps = 50
-######workers = 2
+- learning_rate = 0.01
+- batch_size = 100
+- num_epochs = 30
+- steps_per_epoch = 200
+- validation_steps = 50
+- workers = 2
 
 ## Training
 After the first 30 epochs i adjusted the learing rate to 0.001 and 

@@ -1,7 +1,7 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 ## Deep Learning Project ##
 [//]: # (Image References)
-[image1]: ./data/fcn.png
+[image1]: ./FCN.png
 
 In this project we need to build and train a neural network
 to find and isolate a single person from the image feed of the simulated drone footage.
